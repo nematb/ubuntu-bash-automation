@@ -1,9 +1,5 @@
 # ubuntu-bash-automation
 
-**NOTE:** Update the install paths!
-
-
-
 Create file with:
 
 ```bash
